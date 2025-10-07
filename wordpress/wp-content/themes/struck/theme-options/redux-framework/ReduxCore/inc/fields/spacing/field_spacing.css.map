@@ -1,6 +1,0 @@
-{
-"version": 3,
-"mappings": "AACE,wCAAgB;EACd,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,OAAO;;AACd,+CAAO;EACL,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,IAAI;;AAGf,6CAAqB;EACnB,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,GAAG;;AAEpB,8BAAM;EACJ,MAAM,EAAE,IAAI",
-"sources": ["field_spacing.scss"],
-"file": "field_spacing.css"
-}

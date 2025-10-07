@@ -1,6 +1,0 @@
-{
-"version": 3,
-"mappings": "AACE,2CAAgB;EACd,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,OAAO;;AACd,kDAAO;EACL,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,IAAI;;AAGf,mDAAwB;EACtB,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,GAAG",
-"sources": ["field_dimensions.scss"],
-"file": "field_dimensions.css"
-}

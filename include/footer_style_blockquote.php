@@ -1,4 +1,0 @@
-		<!-- Complete description of HTML structure for this element is located in file page/style_blockquote.php -->
-		<blockquote class="template-blockquote template-blockquote-style-2">
-			Phasellus non vehicula velit vel pulvinar odio. Suspendisse ultrices erat et aliquam convallis nulla dolor ornare lorem eu sollicitudin turpis diam et nulla. Sed tortor nisl auctor et nulla eu ornare consectetur diam. Donec lacinia risus imperdiet pulvinar ante quis varius elit. Sed at dui dignissimil placerat ante nec. In hac habitasse platea dictumst suspendisse quis consequat tortor fusce id pulvinar enim.
-		</blockquote>

@@ -1,6 +1,0 @@
-{
-"version": 3,
-"mappings": "AACE,+CAAoB;EAClB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;;AAEZ,oDAAyB;EACvB,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,OAAO;EAChB,WAAW,EAAE,GAAG;;AAChB,0DAAQ;EACN,UAAU,EAAE,GAAG;EACf,KAAK,EAAE,IAAI;EACX,eAAe,EAAE,IAAI;;AAGzB,iDAAsB;EACpB,aAAa,EAAE,GAAG",
-"sources": ["field_multi_text.scss"],
-"file": "field_multi_text.css"
-}
